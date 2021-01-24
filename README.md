@@ -1,16 +1,12 @@
 # README
 
-## This is the README for your extension pack "linux-dev-extension-pack"
+This is an extension pack for developers of linux applications (network)
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Extentions part of this pack:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+1. **Auto Comment blocks** - _kevinkyang_
+2. **Bracket Pair Colorizer 2** - coenraads
+3. **Git Graph** - mhutchie
+4. **VSCode Remote Extension Pack** - _ms-vscode-remote_
+5. **Text Marker** - _ryu1kn_
+6. **Todo Tree** - _gruntfuggly_
