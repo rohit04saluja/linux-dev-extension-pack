@@ -1,0 +1,15 @@
+{
+    "name": "linux-dev-extension-pack",
+    "displayName": "Linux Dev Extension Pack",
+    "description": "Extension pack for linux application development",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
