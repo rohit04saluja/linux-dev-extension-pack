@@ -13,6 +13,7 @@
     },
     "author": "rohit04saluja",
     "publisher": "rohit04saluja",
+    "icon": "_static/icon.png",
     "engines": {
         "vscode": "^1.52.0"
     },
