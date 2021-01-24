@@ -2,7 +2,7 @@
     "name": "linux-dev-extension-pack",
     "displayName": "Linux Dev Extension Pack",
     "description": "Extension pack for linux application development",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "homepage": "https://github.com/rohit04saluja/linux-dev-extension-pack",
     "repository": {
         "type": "git",
@@ -36,7 +36,7 @@
         "text marker",
         "git graph"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "kevinkyang.auto-comment-blocks",
         "coenraads.bracket-pair-colorizer-2",
         "mhutchie.git-graph",
