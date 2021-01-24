@@ -19,6 +19,22 @@
     "categories": [
         "Extension Packs"
     ],
+    "keywords": [
+        "rohit saluja",
+        "rohit",
+        "linux",
+        "c",
+        "c++",
+        "git",
+        "app",
+        "network",
+        "todo",
+        "bracket colorizer",
+        "remote",
+        "remote development",
+        "text marker",
+        "git graph"
+    ],
     "extensionPack": [ 
         "kevinkyang.auto-comment-blocks",
         "coenraads.bracket-pair-colorizer-2",
