@@ -10,6 +10,11 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "publisher.extensionName"
+        "kevinkyang.auto-comment-blocks",
+        "coenraads.bracket-pair-colorizer-2",
+        "mhutchie.git-graph",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "ryu1kn.text-marker",
+        "gruntfuggly.todo-tree"
     ]
 }
