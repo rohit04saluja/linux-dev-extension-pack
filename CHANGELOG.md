@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.1.0] - 2021/08/27
+
+### Added
+
+- Trailing spaces
+
 ## [1.0.0] - 2021/01/24
 
 - Initial release
