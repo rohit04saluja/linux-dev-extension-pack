@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.2.0] - 2022/07/14
+
+### Removed
+
+- Bracket Pair Colorizer 2
+
 ## [1.1.0] - 2021/08/27
 
 ### Added
